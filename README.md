@@ -17,16 +17,6 @@ The Boston Housing Dataset contains 506 records and 13 features. The target vari
 * Scikit-learn
 * Jupyter Notebook
 
-## Project Structure
-
-Boston-Housing-Price-Prediction/
-
-├── HousingData.csv
-
-├── Boston_Housing_Prediction.ipynb
-
-└── README.md
-
 ## Methodology
 
 The dataset is loaded and explored to understand its structure and distributions. Missing values are handled during preprocessing, and feature scaling is applied using StandardScaler.
